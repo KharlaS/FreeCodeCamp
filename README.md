@@ -6,7 +6,7 @@
 
 Projeto construído no FreeCodeCamp.org
 
-[🔗 Clique aqui para acessar] (https://kharlas.github.io/FreeCodeCamp/)
+[🔗 Clique aqui para acessar](https://kharlas.github.io/FreeCodeCamp/)
 
 
 ## 👩🏻‍💻 Tecnologias
