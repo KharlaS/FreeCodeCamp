@@ -17,4 +17,5 @@ Projeto construído no FreeCodeCamp.org
 ## ❤️ Contato
 
 kharlasrosario@gmail.com
+
 https://www.linkedin.com/in/kharlasrosario/
